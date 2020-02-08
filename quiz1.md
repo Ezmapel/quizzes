@@ -29,3 +29,25 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 9. What happens when we enter `npm install`?
 
 10. List 3 of JS's _primitive data types._
+
+## Answers
+
+1. `git` is a version control system that essentially works as a little gnome that is hiding in the background and is always watching. The little `git` gnome can track all of your changes and save versions of what you are coding, and can also roll back to previous versions based on the gnome's impeccable memory.
+
+2. `bash` is a tool that allows us to interface with our computer and give it commands. It basically lets us use text commands (bash is kind of like the dictionary of terms) to tell our machine to do something.
+
+3. cd
+
+4. A linter is something that finds and corrects errors in your code.
+
+5. A `SyntaxError` means that some of your code may be improperly written (e.g., an open parenthesis, etc.)
+
+6. const, let
+
+7. Node package manager - it helps us by cleaning up our code and removing errors.
+
+8. java script object notation
+
+9. Npm install sets up tools that allow you correct errors in your code and make it visually cleaner.
+
+10. boolean, string, number
