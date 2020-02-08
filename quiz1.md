@@ -40,14 +40,14 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 
 4. A linter is something that finds and corrects errors in your code.
 
-5. A `SyntaxError` means that some of your code may be improperly written (e.g., an open parenthesis, etc.)
+5. A `SyntaxError` means that some of your code may be improperly written (e.g., an open parenthesis, etc.) - basically like a grammatical error in your code.
 
 6. const, let
 
-7. Node package manager - it helps us by cleaning up our code and removing errors.
+7. Node package manager - it works with npmjs.com to leverage other code modules to make working on our code easier.
 
 8. java script object notation
 
-9. Npm install sets up tools that allow you correct errors in your code and make it visually cleaner.
+9. Npm install reaches out to npmjs.com, checks 'package.json' dependencies to install the modules into 'Node_Modules'.
 
 10. boolean, string, number
